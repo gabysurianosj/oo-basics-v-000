@@ -12,6 +12,7 @@ class Shoe
     @color = color 
   end 
   
-  def color @color
+  def color 
+    @color
   end 
 end 
